@@ -1,3 +1,4 @@
+<img width="938" alt="Screenshot 2025-03-28 151608" src="https://github.com/user-attachments/assets/0d88d3d2-3ba7-4c23-91cb-6ceb2d776f64" />
 # Donation Smart Contract
 
 ## Description
